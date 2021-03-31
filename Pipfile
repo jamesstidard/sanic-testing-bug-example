@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 sanic = "*"
 sanic-testing = "*"
+pytest = "*"
 
 [dev-packages]
 
